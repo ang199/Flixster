@@ -24,7 +24,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="5dp"
         android:layout_toEndOf="@+id/ivPoster"
-        android:textColor="#FDFBFB"
+        android:textColor="#FFFFFF"
         android:textSize="24sp"
         tools:text="Spider-Man: No Way Home" />
 
