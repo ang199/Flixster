@@ -4,8 +4,8 @@
 
 #### REQUIRED (10pts)
 
-- [ ] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [ ] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 #### BONUS
 
@@ -25,7 +25,7 @@
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+The only trouble I truly encountered was that I got the "An error occurred while initializing Youtube player" error but that was purely my fault because I had forgotten to add the queries code to the AndroidManifest.xml file. Besides that small bump in the road, I honestly did not have any issues completing the rest of the assignment.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
